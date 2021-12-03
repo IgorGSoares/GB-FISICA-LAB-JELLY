@@ -1,6 +1,12 @@
 Versão da Unity: 2021.1.3
 
+Movimento para os lados: A,D direcional esquerda, direcional direita
+Pulo normal: Espaço
+Pulo invertido: direcional para baixo
+
 Itch.IO (senha-> jelly): https://igorgilbertosoares.itch.io/lab-jelly
+
+Contém versão com canvas ajustado para projeto e canvas ajustado para buildagem
 
 Bugs do respawn e lava resolvidos
 
