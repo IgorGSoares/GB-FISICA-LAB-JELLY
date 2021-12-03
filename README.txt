@@ -1,6 +1,6 @@
 Versão da Unity: 2021.1.3
 
-Itch.IO:
+Itch.IO (senha-> jelly): https://igorgilbertosoares.itch.io/lab-jelly
 
 Bugs do respawn e lava resolvidos
 
